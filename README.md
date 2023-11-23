@@ -1,5 +1,12 @@
-### Hi there 👋
+### Olá! Meu nome é Tiago Costa Soares👋
 
+<div>
+  <a href="https://github.com/TiagoCSoares">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=TiagoCSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height ="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCSoares&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+    
 <!--
 **TiagoCSoares/tiagocsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
