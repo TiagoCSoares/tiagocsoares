@@ -1,14 +1,9 @@
 ### Olá! Meu nome é Tiago Costa Soares👋
 
-<div>
-  <a href="https://github.com/TiagoCSoares">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=TiagoCSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height ="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCSoares&layout=compact&langs_count=6&theme=dracula"/>
-</div>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TiagoCSoares&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-TiagoCSoares.vercel.app/api/top-langs/?username=TiagoCSoares&show_icons=true&theme=radical&layout=compact&&langs_count=6" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCSoares&show_icons=true&theme=radical&layout=compact&&langs_count=6" />
  </div>
 
     
