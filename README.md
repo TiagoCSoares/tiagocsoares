@@ -3,7 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=56% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TiagoCSoares&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCSoares&show_icons=true&theme=radical&layout=compact&&langs_count=6" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCSoares&show_icons=true&theme=radical&layout=compact&&langs_count=8" />
  </div>
 
 ## Linguagens e Tecnologias
